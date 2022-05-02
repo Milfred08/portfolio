@@ -25,9 +25,9 @@ Smaller devices screen example:
 
 ### Open your favorite web browser and enter the following web address to access.
 
-```html
-https://milfred08.github.io/portfolio/
-```
+The project was uploaded to GitHub at the following repository: https://github.com/Milfred08/portfolio
+
+You can access the deployed application with the GitHup Pages link: https://milfred08.github.io/portfolio/
 <a name="usage"></a>
 ## 3. Usage Tips
 
