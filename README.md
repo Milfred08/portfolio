@@ -61,7 +61,7 @@ Pull requests are welcome. For major changes, please open let repository owner k
 
 <a name="license"></a>
 ## 5. License
-None
+Nonez
 
 
 
